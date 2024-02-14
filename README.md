@@ -14,7 +14,7 @@ This is a Discord bot built with Node.js using the Discord.js library.
 
 1. Clone the repository:
 
-```bash
+```git
 
 git clone https://github.com/satyamtiwari98/discord-bot-satyam.git
 
@@ -30,7 +30,7 @@ cd discord-bot-satyam
 
 3. Install dependencies:
 
-```bash
+```javascript
 
 npm install
 
@@ -42,7 +42,7 @@ npm install
 
 npm start
 
-'''
+```
 
 ## Usage
 
